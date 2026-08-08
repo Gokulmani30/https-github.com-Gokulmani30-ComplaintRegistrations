@@ -1,0 +1,250 @@
+Database Connected Successfullly!!
+
+==============================================
+  Municipal Complaint Registration  
+
+==============================================
+1. Register Citizen
+2. View Citizens
+3. Update Citizen
+4. Delete Citizen
+5. Register Officer
+6. View Officers
+7. Register Complaint
+8. Assign Officer
+9. Update Complaint Status
+10. View Resolution
+11. View All Complaints
+12. Exit
+==============================================
+Enter Choice : 1
+Enter Citizen Name : yamuna
+Enter PhoneNumber : 9944665210
+Enter Address : salem
+Citizen Registered Successfully.
+
+==============================================
+  Municipal Complaint Registration  
+
+==============================================
+1. Register Citizen
+2. View Citizens
+3. Update Citizen
+4. Delete Citizen
+5. Register Officer
+6. View Officers
+7. Register Complaint
+8. Assign Officer
+9. Update Complaint Status
+10. View Resolution
+11. View All Complaints
+12. Exit
+==============================================
+Enter Choice : 2
+
+------------------CITIZEN LISTS--------------------
+Citizen ID              : 1
+Citizen NAME            : yamuna
+Phone Number            : 9944665210
+Addresss                : salem
+
+-------------------------------------------------------
+
+==============================================
+  Municipal Complaint Registration  
+
+==============================================
+1. Register Citizen
+2. View Citizens
+3. Update Citizen
+4. Delete Citizen
+5. Register Officer
+6. View Officers
+7. Register Complaint
+8. Assign Officer
+9. Update Complaint Status
+10. View Resolution
+11. View All Complaints
+12. Exit
+==============================================
+Enter Choice : 5
+Enter Officer Name : arun
+Enter Department : pwd
+Enter Phone : 7896412310
+Database Connected Successfullly!!
+Officer Registered Successfully!
+
+==============================================
+  Municipal Complaint Registration  
+
+==============================================
+1. Register Citizen
+2. View Citizens
+3. Update Citizen
+4. Delete Citizen
+5. Register Officer
+6. View Officers
+7. Register Complaint
+8. Assign Officer
+9. Update Complaint Status
+10. View Resolution
+11. View All Complaints
+12. Exit
+==============================================
+Enter Choice : 6
+Database Connected Successfullly!!
+
+========== OFFICER DETAILS ==========
+Officer ID : 1
+Name       : arun
+Department : pwd
+Phone      : 7896412310
+------------------------------------
+
+==============================================
+  Municipal Complaint Registration  
+
+==============================================
+1. Register Citizen
+2. View Citizens
+3. Update Citizen
+4. Delete Citizen
+5. Register Officer
+6. View Officers
+7. Register Complaint
+8. Assign Officer
+9. Update Complaint Status
+10. View Resolution
+11. View All Complaints
+12. Exit
+==============================================
+Enter Choice : 7
+Enter Citizen ID : 1
+
+Complaint Types:
+1. Road Damage
+2. Water Supply
+3. Street Light
+4. Garbage Collection
+5. Drainage
+6. Other
+Enter Complaint Type : 1
+Enter Description : Street road damage due to heavy rain
+Database Connected Successfullly!!
+Complaint Registered Successfully!
+
+==============================================
+  Municipal Complaint Registration  
+
+==============================================
+1. Register Citizen
+2. View Citizens
+3. Update Citizen
+4. Delete Citizen
+5. Register Officer
+6. View Officers
+7. Register Complaint
+8. Assign Officer
+9. Update Complaint Status
+10. View Resolution
+11. View All Complaints
+12. Exit
+==============================================
+Enter Choice : 8
+Enter Complaint ID : 1
+Enter Officer ID : 1
+Database Connected Successfullly!!
+Officer Assigned Successfully!
+
+==============================================
+  Municipal Complaint Registration  
+
+==============================================
+1. Register Citizen
+2. View Citizens
+3. Update Citizen
+4. Delete Citizen
+5. Register Officer
+6. View Officers
+7. Register Complaint
+8. Assign Officer
+9. Update Complaint Status
+10. View Resolution
+11. View All Complaints
+12. Exit
+==============================================
+Enter Choice : 9
+Enter Complaint ID : 1
+
+1. Pending
+2. In Progress
+3. Resolved
+4. Rejected
+Enter Status Choice : 2
+Enter Resolution : here after maintain properly!!!!
+Database Connected Successfullly!!
+Complaint Status Updated Successfully!
+
+==============================================
+  Municipal Complaint Registration  
+
+==============================================
+1. Register Citizen
+2. View Citizens
+3. Update Citizen
+4. Delete Citizen
+5. Register Officer
+6. View Officers
+7. Register Complaint
+8. Assign Officer
+9. Update Complaint Status
+10. View Resolution
+11. View All Complaints
+12. Exit
+==============================================
+Enter Choice : 10
+Enter Complaint ID : 1
+Database Connected Successfullly!!
+
+========== COMPLAINT DETAILS ==========
+Complaint ID : 1
+Citizen      : yamuna
+Phone        : 9944665210
+Type         : 1
+Description  : Street road damage due to heavy rain
+Complaint Date : 2026-08-08
+Status       : In Progress
+Officer      : arun
+Department   : pwd
+Resolution   : here after maintain properly!!!!
+Resolved Date: null
+
+==============================================
+  Municipal Complaint Registration  
+
+==============================================
+1. Register Citizen
+2. View Citizens
+3. Update Citizen
+4. Delete Citizen
+5. Register Officer
+6. View Officers
+7. Register Complaint
+8. Assign Officer
+9. Update Complaint Status
+10. View Resolution
+11. View All Complaints
+12. Exit
+==============================================
+Enter Choice : 11
+Database Connected Successfullly!!
+
+========== ALL COMPLAINTS ==========
+Complaint ID : 1
+Citizen      : yamuna
+Type         : 1
+Date         : 2026-08-08
+Status       : In Progress
+Officer      : arun
+------------------------------------
+
